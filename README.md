@@ -370,7 +370,7 @@ This project is licensed under the **MIT License**.
 
 **Tanmay Yenpure**
 
-### AI&ML Engineer
+### AI/ML Engineer
 
 🐙 **GitHub**
 
